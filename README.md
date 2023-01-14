@@ -22,15 +22,7 @@ A - Model was trained professionally and several times restructured by for suita
 </br>
 
 # Contributors
-- Eklavya11 (dev)
-
-# Developer Usage
-Aipokedex aims to provide a Alternative to Developers & Users to Stop scribbling their Mind jumping into Machine learning. </br>
-Aipokedex was established for a Aim to provide a edge & save time of developers. </br>
-Packages are available in:
-- Npm (js/ts)
-- pip (Python)
-- Golang
+- Eklavya11 (developer)
 
 -----------
 ### Disclaimers
