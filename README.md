@@ -1,6 +1,6 @@
 <logo goes here>
 <discord logo with invite here>
-
+(rew to star this repo)
 <!--
 TAGS SECTION FOR SEO
 -->
