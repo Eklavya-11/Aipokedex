@@ -28,4 +28,4 @@ A - Model was trained professionally and several times restructured by for suita
 ### Disclaimers
 Aipokedex & Contributors are not related to nintendo & it's affilates in any manner.
 
-will write moree
+<will write moree>
