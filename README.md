@@ -6,9 +6,8 @@ TAGS SECTION FOR SEO
 -->
 
 # AiPokedex
-AIpokedex is an incredibly useful application that harnesses the power of AI and machine learning to help users identify Pokemon. 
+AIpokedex is an incredibly useful application that harnesses the power of AI and machine learning to help users identify Pokemon. </br>
 Whether you're a die-hard Pokemon fan or just trying to catch 'em all, this application makes it easy to identify any Pokemon you come across. 
-Simply show an image of a Pokemon, and AIPOKEDEX will identify and quickly return the best match, providing you with all the information you need to know about that Pokemon.
 
 # Showcase
 a formatted gif(small-sized)
