@@ -39,6 +39,9 @@ A: Aipokedex is highly accurate in identifying Pokemon, thanks to its profession
 ## History
 In 2020, during the Covid pandemic, aipokedex.com was developed to address the challenge of identifying Pokemon. As a solution-oriented approach, AiPokedex was born. As time passed, its usage dwindled for me, leading to the decision to make it open source.
 
+<p align="center">
+  <img src="https://github.com/Eklavya-11/Aipokedex/blob/main/artifacts/aidex-teaser.jpg?raw=true">
+</p>
 
 -------- 
 
