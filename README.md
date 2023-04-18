@@ -11,8 +11,8 @@ TAGS SECTION FOR SEO
 <h1 align="center">Aipokedex - companion for identifying & learning about Pokemon</h1> <br>
 
 <p align="center">
-  <a href="#--usage--explanation">Usage</a> •
-  <a href="#--installation--requirements">Installation</a>
+  <a href="https://aipokedex.com">Website</a> •
+  <a href="#installation">Installation</a>
 </p>
 <h3 align="center">  </h3>
 
