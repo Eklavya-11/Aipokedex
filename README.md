@@ -41,6 +41,7 @@ In 2020, during the Covid pandemic, aipokedex.com was developed to address the c
 
 <p align="center">
   <img src="https://github.com/Eklavya-11/Aipokedex/blob/main/artifacts/aidex-teaser.jpg?raw=true">
+    <br> version
 </p>
 
 -------- 
