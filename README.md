@@ -21,7 +21,7 @@ A - Model was trained professionally and several times restructured by for suita
 </br>
 
 # History
-aipokedex.com was created in year 20xx during the covid when i had to identify pokemons but couldn't find any. Applying the problem solving approach, aipokedex was born.
+aipokedex.com was created in year 2020 during the covid when i had to identify pokemons but couldn't find any. Applying the problem solving approach, aipokedex was born.
 However with time, it's usage became minimal for me and i'm deciding to opensource.
 
 # Contributors
