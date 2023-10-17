@@ -27,7 +27,7 @@ TAGS SECTION FOR SEO
 <!-- Installation here: need contributors -->
 
 ## Installation
-TODO:Compile
+Project has been abandoned.
 
 ## Frequently Asked Questions
 Q: How can I use Aipokedex?</br>
