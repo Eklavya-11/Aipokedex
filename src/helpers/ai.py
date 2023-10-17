@@ -1,7 +1,8 @@
 # Imports
 
-# Solve function()
+### Project conatins frontend ####
 
+# Functions
 def solve(url):
   #downloads img & predicts it
   response = requests.get(url)
