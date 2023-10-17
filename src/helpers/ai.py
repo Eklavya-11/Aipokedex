@@ -4,12 +4,11 @@ from PIL import Image
 from io import BytesIO
 from numpy import array, argmax
 
-
 # Currently, the model is not included in the code
 model = load_model("PokemonPerfection.h5")
 
 # Predict given url
-def url_predict(url):
+def solve(url):
 
     # Open url and predict
     open_url = urlopen(Request(url = url, headers = {"User-Agent": "Mozilla/5.0"}))
